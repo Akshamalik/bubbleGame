@@ -1,8 +1,7 @@
 # bubbleGame
 
 BubbleGame is an engaging web-based game crafted using fundamental web technologies such as HTML, CSS, and JavaScript. The game combines visual appeal with interactive functionality, demonstrating the use of basic web development concepts and JavaScript logic.
-<p align="center"><img src="/Car-rental/public/images-flow/index.PNG" width="400" alt="IndexPage"><p>
-
+<p align="center"><img src="./images/bb.png" width="400" alt="IndexPage"><p>
 
 ## Features
 
